@@ -2,13 +2,13 @@
 	<service>
 		<engineName>WordPress</engineName>
 		<engineLink>https://wordpress.org/</engineLink>
-		<homePageLink>https://wordpress.goodwilltechnologies.in</homePageLink>
+		<homePageLink>https://goodwilltechnologies.in</homePageLink>
 		<apis>
-			<api name="WordPress" blogID="1" preferred="true" apiLink="https://wordpress.goodwilltechnologies.in/xmlrpc.php" />
-			<api name="Movable Type" blogID="1" preferred="false" apiLink="https://wordpress.goodwilltechnologies.in/xmlrpc.php" />
-			<api name="MetaWeblog" blogID="1" preferred="false" apiLink="https://wordpress.goodwilltechnologies.in/xmlrpc.php" />
-			<api name="Blogger" blogID="1" preferred="false" apiLink="https://wordpress.goodwilltechnologies.in/xmlrpc.php" />
-				<api name="WP-API" blogID="1" preferred="false" apiLink="https://wordpress.goodwilltechnologies.in/wp-json/" />
+			<api name="WordPress" blogID="1" preferred="true" apiLink="https://goodwilltechnologies.in/xmlrpc.php" />
+			<api name="Movable Type" blogID="1" preferred="false" apiLink="https://goodwilltechnologies.in/xmlrpc.php" />
+			<api name="MetaWeblog" blogID="1" preferred="false" apiLink="https://goodwilltechnologies.in/xmlrpc.php" />
+			<api name="Blogger" blogID="1" preferred="false" apiLink="https://goodwilltechnologies.in/xmlrpc.php" />
+				<api name="WP-API" blogID="1" preferred="false" apiLink="https://goodwilltechnologies.in/wp-json/" />
 			</apis>
 	</service>
 </rsd>
